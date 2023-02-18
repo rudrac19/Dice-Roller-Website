@@ -1,0 +1,29 @@
+.dice-container {
+	margin: 0 auto;
+	text-align: center;
+}
+
+.dice {
+	background-color: #ffffff;
+	border: 2px solid #000000;
+	border-radius: 10px;
+	display: inline-block;
+	font-size: 72px;
+	height: 100px;
+	line-height: 100px;
+	margin: 20px;
+	width: 100px;
+}
+
+.button {
+	background-color: #4CAF50;
+	border: none;
+	border-radius: 5px;
+	color: #ffffff;
+	cursor: pointer;
+	font-size: 24px;
+	margin: 20px;
+	padding: 10px 20px;
+	text-align: center;
+	text-decoration: none;
+}
